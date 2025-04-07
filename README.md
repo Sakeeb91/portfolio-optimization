@@ -48,7 +48,7 @@ This project implements the Modern Portfolio Theory (MPT) using the Markowitz Mo
 | AMZN-KO    | AMZN    | 68.87%   | KO      | 31.13%   | 18.09%         | 26.60%     | 0.49         |
 
 ### Efficient Frontier Visualization
-![Efficient Frontier](portfolio_analysis/AAPL_XOM_20250407_101902/efficient_frontier.png)
+![Efficient Frontier](images/efficient_frontier.png)
 
 ## 🛠️ Technical Implementation
 
@@ -61,6 +61,7 @@ Portfolio Optimization using Markowitz Model/
 ├── plotter.py               # Visualization utilities
 ├── run_analysis.py          # Main analysis script
 ├── tests/                   # Unit tests
+├── images/                  # Project images
 └── portfolio_analysis/      # Analysis results
     ├── comparative_analysis.md
     └── [stock_pair_results]/
@@ -79,7 +80,7 @@ Portfolio Optimization using Markowitz Model/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/portfolio-optimization.git
+git clone https://github.com/Sakeeb91/portfolio-optimization.git
 cd portfolio-optimization
 ```
 
